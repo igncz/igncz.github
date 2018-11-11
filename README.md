@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://user.qzone.qq.com/949040243) and ![Image](https://steamcommunity.com/id/igncz/inventory/)
+[Link]() and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
